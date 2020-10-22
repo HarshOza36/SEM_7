@@ -49,9 +49,9 @@ def dfs(visited_dfs, graph, node, goal):
         print(node, end=" ")
         visited_dfs.add(node)
         for neighbour in graph[node]:
-            dfs(visited_dfs, graph, neighbour, goal)
             if(goal in visited_dfs):
                 return
+            dfs(visited_dfs, graph, neighbour, goal)
 
 
 g = input("Enter Goal Node for BFS : ")

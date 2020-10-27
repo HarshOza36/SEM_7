@@ -7,9 +7,9 @@
 
 3 . [To implement BFS and DFS algorithm](https://github.com/HarshOza36/SEM_7/blob/master/AISC%20Lab/exp03.py)
 
-4 . []()
+4 . [To implement A* algorithm](https://github.com/HarshOza36/SEM_7/blob/master/AISC%20Lab/exp04.py)
 
-5 . []()
+5 . [To implement Fuzzy Set Properties and Operation](https://github.com/HarshOza36/SEM_7/blob/master/AISC%20Lab/exp05.py)
 
 6 . []()
 

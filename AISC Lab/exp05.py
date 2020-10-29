@@ -70,7 +70,15 @@ AminusB = []
 for i in range(len(set_A)):
     AminusB.append(str(set_A_vars[i])+"/" +
                    str(format(set_A_ele[i] - set_B_ele[i], ".1f")))
-print("Difference of set A and set B is {}".format(AminusB))
+print("Difference(A-B) of set A and set B is {}".format(AminusB))
+
+# Difference of Set A and B using AuB'
+AminusBd = []
+for i in range(len(set_A)):
+    AminusBd.append(str(set_A_vars[i])+"/" +
+                    str(format((max(float(set_A_ele[i]), float(B_c_vals[i]))), ".1f")))
+print("Difference(AuB') of set A and set B is {}".format(AminusBd))
+
 
 # To-Do
 # Prove De Morgan's Law

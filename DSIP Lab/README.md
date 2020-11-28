@@ -4,17 +4,17 @@
 
 2 . [To perform the various elementary signal generation in Python.](https://github.com/HarshOza36/SEM_7/blob/master/DSIP%20Lab/Exp_02.ipynb)
 
-3 . [To perform Operations on signals]()
+3 . [To perform Operations on signals](https://github.com/HarshOza36/SEM_7/blob/master/DSIP%20Lab/Exp_03.ipynb)
 
-4 . [To perform the convolution operation of two discrete signals in Python]()
+4 . [To perform the convolution operation of two discrete signals in Python](https://github.com/HarshOza36/SEM_7/blob/master/DSIP%20Lab/Exp_04.ipynb)
 
-5 . [To perform the correlation operation of two discrete signals in Python]()
+5 . [To perform the correlation operation of two discrete signals in Python](https://github.com/HarshOza36/SEM_7/blob/master/DSIP%20Lab/Exp_05.ipynb)
 
-6 . [To perform Discrete Fourier Transform]()
+6 . [To perform Discrete Fourier Transform](https://github.com/HarshOza36/SEM_7/blob/master/DSIP%20Lab/Exp_06.ipynb)
 
-7 . [To perform Fast Fourier Transform]()
+7 . [To perform Fast Fourier Transform](https://github.com/HarshOza36/SEM_7/blob/master/DSIP%20Lab/Exp_07.ipynb)
 
-8 . [To perform Image Enhancement]()
+8 . [To perform Image Enhancement](https://github.com/HarshOza36/SEM_7/blob/master/DSIP%20Lab/Exp_08.ipynb)
 
 9 . [To perform the image enhancement techniques of Contrast Stretching, Bit Plane Slicing and Dynamic Range Compression of an image signal in Python]()
 

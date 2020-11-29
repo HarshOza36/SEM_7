@@ -16,10 +16,10 @@
 
 8 . [To perform Image Enhancement](https://github.com/HarshOza36/SEM_7/blob/master/DSIP%20Lab/Exp_08.ipynb)
 
-9 . [To perform the image enhancement techniques of Contrast Stretching, Bit Plane Slicing and Dynamic Range Compression of an image signal in Python]()
+9 . [To perform the image enhancement techniques of Contrast Stretching, Bit Plane Slicing and Dynamic Range Compression of an image signal in Python](https://github.com/HarshOza36/SEM_7/blob/master/DSIP%20Lab/Exp_09.ipynb)
 
-10 . [To perform Historgram Processing]()
+10 . [To perform Historgram Processing](https://github.com/HarshOza36/SEM_7/blob/master/DSIP%20Lab/Exp_10.ipynb)
 
-11 . [To perform Image Smoothing and Sharpening]()
+11 . [To perform Image Smoothing and Sharpening](https://github.com/HarshOza36/SEM_7/blob/master/DSIP%20Lab/Exp_11.ipynb)
 
-12 . [To perform Image Segmentation]()
+12 . [To perform Image Segmentation](https://github.com/HarshOza36/SEM_7/blob/master/DSIP%20Lab/Exp_12.ipynb)

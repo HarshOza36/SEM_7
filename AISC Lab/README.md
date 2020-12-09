@@ -11,12 +11,8 @@
 
 5 . [To implement Fuzzy Set Properties and Operation](https://github.com/HarshOza36/SEM_7/blob/master/AISC%20Lab/exp05.py)
 
-6 . []()
+6 . [To design and implement Fuzzy Inference System]()
 
-7 . []()
+7 . [To implement Mc Culloc Pitt’s Model for logic gate.]()
 
-8 . []()
-
-9 . []()
-
-10 . []()
+8 . [To do a survey and research on different expert system with respect to their features, characteristics, advantages, dis advantages and the application area where they are used.]()
